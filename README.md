@@ -34,7 +34,36 @@ A series of lectures unpacking a single idea.
 
 #### [Notes to a Software Team Leader](https://www.amazon.com/Notes-Software-Team-Leader-Organizing/dp/829993320X/ref=sr_1_1?s=books&ie=UTF8&qid=1547103596&sr=1-1&keywords=notes+to+a+software+team+leader)
 
-> Are you an architect? Scrum Master? team leader? project manager? If you are any of these, you will find that leadership, done right, is a very tough job. This book deals with the hard parts. Not with tools, but with people. Here is the manifesto that drives this book: For us as team leaders, the goal and the way we measure our work is the overall growth in skills of self-organization and self-maintenance in each member of our team and the team as a whole. To that end: • We accept that the team's needs from us change continuously based on their skills for handling the current reality of work, so we embrace a continuously changing leadership style over a one-style-fits-all leadership approach. • We believe in challenging ourselves and our teams to always get better, so: • _ We create slack time for the team to learn and be challenged. • _ We embrace taking risks for our team over staying safe. • _ We embrace fear and discomfort while learning new skills over keeping people within their comfort zone. • _ We embrace experimentation as a constant practice over maintaining the status quo: • _ With people • _ With tools • _ With processes • _ With the environment • _ We believe our core practice is leading people, not wielding machines, so: • _ We embrace spending more time with our team than in meetings. • _ We embrace treating software problems as people problems. • _ We learn people skills and communication techniques. About the notes The second part of this book allows a peek into the minds of some of the best leaders, consultants, and managers as they give advice to a new team leader. Hear from Johanna Rothman, Kevlin Henney, Dan North, Uncle Bob Martin, and many others about the one thing they would like to teach you if you ever become a team leader, Scrum Master, project manager, or architect.
+For us as team leaders, the goal and the way we measure our work is the overall growth in skills of self-organization and self-maintenance in each member of our team and the team as a whole. To that end:
+
+- We accept that the team's needs from us change continuously based on their skills for handling the current reality of work, so we embrace a continuously changing leadership style over a one-style-fits-all leadership approach.
+- We believe in challenging ourselves and our teams to always get better, so:
+  - We create slack time for the team to learn and be challenged.
+  - We embrace taking risks for our team over staying safe.
+  - We embrace fear and discomfort while learning new skills over keeping people within their comfort zone.
+- We embrace experimentation as a constant practice over maintaining the status quo:
+  - With people
+  - With tools
+  - With processes
+  - With the environment
+- We believe our core practice is leading people, not wielding machines, so:
+  - We embrace spending more time with our team than in meetings.
+  - We embrace treating software problems as people problems.
+  - We learn people skills and communication techniques.
+
+#### [Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency](https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency/dp/076790768X)
+
+> What is “slack”? Slack is the degree of freedom in a company that allows it to change. It could be something as simple as adding an assistant to a department, letting high-priced talent spend less time at the photo copier and more time making key decisions. Slack could also appear in the way a company treats employees: instead of loading them up with overwork, a company designed with slack allows its people room to breathe, increase effectiveness, and reinvent themselves.
+
+#### [The Mythical Man-Month: Essays on Software Engineering](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/ref=sr_1_1?s=books&ie=UTF8&qid=1548554803&sr=1-1&keywords=mythical+man+month)
+
+> With a blend of software engineering facts and thought-provoking opinions, Fred Brooks offers insight for anyone managing complex projects. These essays draw from his experience as project manager for the IBM System/360 computer family and then for OS/360, its massive software system.
+
+#### [Peopleware: Productive Projects and Teams](https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113/ref=pd_sim_14_2/137-5515318-9458236?_encoding=UTF8&pd_rd_i=0321934113&pd_rd_r=33adc7e9-21d8-11e9-b211-f3dfa78d1ad5&pd_rd_w=SmkX6&pd_rd_wg=Fgdue&pf_rd_p=90485860-83e9-4fd9-b838-b28a9b7fda30&pf_rd_r=TTJ92WN3848PWCQ4K4Q1&psc=1&refRID=TTJ92WN3848PWCQ4K4Q1)
+
+> “Peopleware is the one book that everyone who runs a software team needs to read and reread once a year. In the quarter century since the first edition appeared, it has become more important, not less, to think about the social and human issues in software develop¿ment. This is the only way we’re going to make more humane, productive workplaces. Buy it, read it, and keep a stock on hand in the office supply closet.”
+>
+> —Joel Spolsky, Co-founder, Stack Overflow
 
 ### Project Management
 
