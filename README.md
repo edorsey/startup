@@ -14,7 +14,9 @@ This is a repository of awesome articles, videos, tweets, and thoughts on buildi
 
 ### [Beyond the Goal](https://www.amazon.com/Beyond-Goal-Eliyahu-Goldratt-Constraints/dp/1596590238)
 
-A series of lectures unpacking a single idea.
+A series of lectures unpacking a single idea:
+
+> Technology can bring benefits if, and only if, it diminishes a limitation.
 
 ## Sales
 
