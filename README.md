@@ -117,6 +117,10 @@ Emmett Shear, on product disagreements:
 
 > I’m always badgering teams about moving faster. Yet I continue to meet people and teams that not only move very slow, they don’t understand the relationship between speed and innovation, or speed and quality. In fact, many people still think those goals are at odds. I attribute this mainly to a deeply rooted Waterfall mindset.
 
+#### [Shipping is your company’s heartbeat](https://www.intercom.com/blog/shipping-is-your-companys-heartbeat/)
+
+> Software only becomes valuable when you ship it to customers. Before then it’s just a costly accumulation of hard work and assumptions.
+
 ### DevOps
 
 #### [How to Deploy Software](https://zachholman.com/posts/deploying-software)
