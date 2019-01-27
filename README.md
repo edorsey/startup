@@ -2,6 +2,14 @@
 
 This is a repository of awesome articles, videos, tweets, and thoughts on building software startups.
 
+## Starting Up
+
+### [The Power of the Marginal](http://www.paulgraham.com/marginal.html)
+
+### [Do Things That Don't Scale](http://www.paulgraham.com/ds.html)
+
+### [Default Alive or Default Dead](http://www.paulgraham.com/aord.html)
+
 ## General Business Resources
 
 ### [The Goal](https://www.audible.com/pd/The-Goal-Audiobook/B00IFG88SM)
@@ -158,3 +166,13 @@ A blog post I wrote on everything I've learned about implementing timezones the 
 ##### [UTC is enough for everyone ...right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right)
 
 Probably the best post on timezones.
+
+#### Microservices
+
+##### [Goodbye Microservices: From 100s of problem children to 1 superstar](https://segment.com/blog/goodbye-microservices/)
+
+The trade-offs of micro-services in the real world.
+
+#### Technical Debt
+
+##### [How To Use Technical Debt In Your Favor](https://levelup.gitconnected.com/how-to-use-technical-debt-in-your-favor-98bae475ba68)
