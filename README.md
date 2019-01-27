@@ -59,9 +59,9 @@ Steve Huffman, on re-writes:
 Emmett Shear, on product disagreements:
 
 > You talk to your users first and then you have the ideas about the product. Almost everyone does it in the opposite order. It's called product validation. If you find yourself thinking I'm going to go talk to my users to validate my product idea. You've gone horribly off the rails. You do it in the other order. You don't talk to user to validate your product ideas. You talk to users to have your product ideas.
-
+>
 > I just have a rule in general, for people who want to have a voice in product design. They better talk to the users and look at the data too. If you haven't talked to users, and you haven't looked at data, you don't get to have an opinion about the product. I'm sorry. The person who has actually done the work gets to have the opinion. You can have ideas, but they get to make the call.
-
+>
 > In the case where you wind up where, both people really have talked to users, and both really have looked at the data. And people still disagree with what we should build, which by the way is actually much more rare, once both people have actually talked to users and actually looked at data, its usually relatively easy to get to consensus. It will still come up that people will disagree. I have found its better when you just have someone whose in charge. At the end of the day, you have someone whose the CEO, and everyone agrees this person's judgement will be trusted and you let them make the call. Don't avoid conflict. Talk about it. Argue about it. But then, you have someone who just gets to make the call. Cause anything else leads too... just, decision making is far to slow for a startup.
 
 #### [Best Practices on building a UI component library for your company](https://www.youtube.com/watch?v=j8eBXGPl_5E)
@@ -88,6 +88,6 @@ Emmett Shear, on product disagreements:
 
 [YouTube](https://www.youtube.com/watch?time_continue=2260&v=vBKd9POyIr8)
 
-### [The Phoenix Project](https://www.audible.com/pd/The-Phoenix-Project-Audiobook/B00VAZZY32?qid=1547102379&sr=sr_1_1&ref=a_search_c3_lProduct_1_1&pf_rd_p=e81b7c27-6880-467a-b5a7-13cef5d729fe&pf_rd_r=SGNFHX3124QGGGBB9T8H&)
+#### [The Phoenix Project](https://www.audible.com/pd/The-Phoenix-Project-Audiobook/B00VAZZY32?qid=1547102379&sr=sr_1_1&ref=a_search_c3_lProduct_1_1&pf_rd_p=e81b7c27-6880-467a-b5a7-13cef5d729fe&pf_rd_r=SGNFHX3124QGGGBB9T8H&)
 
 The Goal, but for delivering software instead of manufacturing.
