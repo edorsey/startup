@@ -30,6 +30,18 @@ A series of lectures unpacking a single idea.
 
 > Straight from the programming trenches, The Pragmatic Programmer cuts through the increasing specialization and technicalities of modern software development to examine the core process--taking a requirement and producing working, maintainable code that delights its users. It covers topics ranging from personal responsibility and career development to architectural techniques for keeping your code flexible and easy to adapt and reuse.
 
+### Operating Distributed Systems
+
+#### [Testing in production: Yes, you can (and should)](https://opensource.com/article/17/8/testing-production)
+
+> Embrace failure. Chaos and failure are your friends. The issue is not if you will fail, it is when you will fail, and whether you will notice. It's between whether it will annoy all of your users because the entire site is down, or if it will annoy only a few users until you fix it at your leisure the next morning.
+
+#### [Observability: it's not just an ops thing - Charity Majors](https://www.youtube.com/watch?v=ACHr-qwHS8Y)
+
+> Instrumentation and monitoring often get lumped under the "ops" umbrella, but it's just as critical for every decent software engineer. You can't hope to understand what's going on in even a moderately complex system, unless you've been building for observability all along. Easy to say, harder to do.
+>
+> Let's talk about how this plays out in the real world -- how to focus your limited engineering time on high-impact instrumentation, where to start, how your needs may change as the project matures or the contributor list grows; how and where to use traces, events and metrics. We'll talk about some of the differences between monolith vs microservices, databases, and mobile/web instrumentation ... and how to avoid the kind of solution fragmentation that creates silos between teams.
+
 ### Engineering Leadership
 
 #### [Notes to a Software Team Leader](https://www.amazon.com/Notes-Software-Team-Leader-Organizing/dp/829993320X/ref=sr_1_1?s=books&ie=UTF8&qid=1547103596&sr=1-1&keywords=notes+to+a+software+team+leader)
