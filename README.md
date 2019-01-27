@@ -132,3 +132,15 @@ Emmett Shear, on product disagreements:
 #### [The Phoenix Project](https://www.audible.com/pd/The-Phoenix-Project-Audiobook/B00VAZZY32?qid=1547102379&sr=sr_1_1&ref=a_search_c3_lProduct_1_1&pf_rd_p=e81b7c27-6880-467a-b5a7-13cef5d729fe&pf_rd_r=SGNFHX3124QGGGBB9T8H&)
 
 The Goal, but for delivering software instead of manufacturing.
+
+### Specific Engineering Advice
+
+#### Timezones
+
+##### [Implementing Timezones](https://www.ericdorsey.com/blog/2018/5/implementing-timezones/)
+
+A blog post I wrote on everything I've learned about implementing timezones the many times I've had to do it.
+
+##### [UTC is enough for everyone ...right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right)
+
+Probably the best post on timezones.
