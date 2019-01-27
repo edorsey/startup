@@ -135,6 +135,14 @@ Emmett Shear, on product disagreements:
 
 [YouTube](https://www.youtube.com/watch?time_continue=2260&v=vBKd9POyIr8)
 
+#### [Feature Flags](https://martinfowler.com/articles/feature-toggles.html)
+
+Feature Flags decouple deployments from releasing software.
+
+#### [Feature Toggles are one of the worst kinds of Technical Debt](http://swreflections.blogspot.com/2014/08/feature-toggles-are-one-of-worst-kinds.html?m=1)
+
+The downside of Feature Flags, they must be managed with discipline or they will cost you in the long run.
+
 #### [The Phoenix Project](https://www.audible.com/pd/The-Phoenix-Project-Audiobook/B00VAZZY32?qid=1547102379&sr=sr_1_1&ref=a_search_c3_lProduct_1_1&pf_rd_p=e81b7c27-6880-467a-b5a7-13cef5d729fe&pf_rd_r=SGNFHX3124QGGGBB9T8H&)
 
 The Goal, but for delivering software instead of manufacturing.
