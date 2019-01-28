@@ -131,6 +131,10 @@ Emmett Shear, on product disagreements:
 
 > Software only becomes valuable when you ship it to customers. Before then it’s just a costly accumulation of hard work and assumptions.
 
+#### [Why messiness is a good thing for product teams](https://www.intercom.com/blog/why-messiness-is-a-good-thing-for-product-teams/)
+
+#### [Empathy engineering: bridging the gap from code to customer](https://www.intercom.com/blog/empathy-engineering-bridging-the-gap-from-code-to-customer/)
+
 ### DevOps
 
 #### [How to Deploy Software](https://zachholman.com/posts/deploying-software)
