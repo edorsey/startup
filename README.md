@@ -73,6 +73,10 @@ For us as team leaders, the goal and the way we measure our work is the overall 
   - We embrace treating software problems as people problems.
   - We learn people skills and communication techniques.
 
+#### [How to Rands](http://randsinrepose.com/archives/how-to-rands/)
+
+On build a README for yourself for the purpose of communicating your working style to the rest of your team.
+
 #### [Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency](https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency/dp/076790768X)
 
 > What is “slack”? Slack is the degree of freedom in a company that allows it to change. It could be something as simple as adding an assistant to a department, letting high-priced talent spend less time at the photo copier and more time making key decisions. Slack could also appear in the way a company treats employees: instead of loading them up with overwork, a company designed with slack allows its people room to breathe, increase effectiveness, and reinvent themselves.
